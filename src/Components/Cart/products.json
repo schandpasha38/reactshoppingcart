@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "brandName": "Dabar",
+        "productName": "Chyawanprash - Double Immunity",
+        "quantity": 10,
+        "price": 1292,
+        "mrp": 325,
+        "imgUrl": "dummy",
+        "promoText": "10% Off"
+    },
+    {
+        "id": 2,
+        "brandName": "Tata",
+        "productName": "Tata Sampann Unpolished Toor Dal",
+        "quantity": 10,
+        "price": 130,
+        "mrp": 149,
+        "imgUrl": "dummy",
+        "promoText": "12% off"
+    },
+    {
+        "id": 3,
+        "brandName": "Parle",
+        "productName": "Parle G Gold Biscuits",
+        "quantity": 10,
+        "price": 92,
+        "mrp": 115,
+        "imgUrl": "dummy",
+        "promoText": "20% off"
+    },
+    {
+        "id": 4,
+        "brandName": "Dettol",
+        "productName": "Dettol Original Soap",
+        "quantity": 10,
+        "price": 240,
+        "mrp": 300,
+        "imgUrl": "dummy",
+        "promoText": "20% off"
+    },
+    {
+        "id": 5,
+        "brandName": "Sunfeast",
+        "productName": "Sunfeast Dark Fantasy Choco Fills",
+        "quantity": 10,
+        "price": 98,
+        "mrp": 120,
+        "imgUrl": "dummy",
+        "promoText": "18% off"
+    },
+    {
+        "id": 6,
+        "brandName": "Pillsbury",
+        "productName": "Pillsbury Atta with Multigrains",
+        "quantity": 10,
+        "price": 248,
+        "mrp": 310,
+        "imgUrl": "dummy",
+        "promoText": "20% Off"
+    },
+    {
+        "id": 7,
+        "brandName": "Kohinoor",
+        "productName": "Kohinoor Charminar Rice (Long Grain)",
+        "quantity": 10,
+        "price": 289,
+        "mrp": 499,
+        "imgUrl": "dummy",
+        "promoText": "42% Off"
+    },
+    {
+        "id": 8,
+        "brandName": "Ariel",
+        "productName": "Ariel Complete Detergent Powder 4 kg",
+        "quantity": 10,
+        "price": 580,
+        "mrp": 1160,
+        "imgUrl": "dummy",
+        "promoText": "50% Off"
+    },
+    {
+        "id": 9,
+        "brandName": "Sunfeast",
+        "productName": "Sunfeast Mom's Magic Cashew & Almonds Biscuits",
+        "quantity": 10,
+        "price": 84,
+        "mrp": 105,
+        "imgUrl": "dummy",
+        "promoText": "20% Off"
+    },
+    {
+        "id": 10,
+        "brandName": "Colgate",
+        "productName": "Colgate Strong Teeth Toothpaste",
+        "quantity": 10,
+        "price": 174,
+        "mrp": 217,
+        "imgUrl": "dummy",
+        "promoText": "19% Off"
+    }
+]
